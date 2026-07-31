@@ -1,2 +1,70 @@
 # BFS-V3
-A generic banner flag and scarf generator for fifa/eafc
+BFS Generator
+
+
+Made by Salamyboi / SB Reborn
+
+Introduction
+
+
+Thanks for downloading BFS-V1 (Banner, Flag, Scarf) Generator! This is a powerful, all-in-one tool for creating custom, high-quality graphics for EAFC. The generator is a standalone HTML file that runs entirely in your web browser, meaning you don't need any special software or internet connection to use it.
+
+
+How to Use:
+
+
+Follow these steps to create your custom club graphics.
+
+Step 1: Open the Generator
+Simply double-click the [BFS GENERATOR V3].html file to open it in your preferred web browser (like Chrome, Opera Gx, or Edge).
+
+Step 2: Select Your Design Mode
+At the top of the left-hand control panel, you will see three main tabs:
+
+Banner: For creating the main 1024x1024 tifo display.
+Flags: For creating the 512x512 and 512x256 supporter flags.
+Scarf: For creating the 1024x128 club scarf.
+
+Click the mode you want to work in. The preview on the right and the options on the left will update accordingly.
+
+Step 3: Upload Your Club Emblem
+In the control panel, find the Emblem Image control.
+Click the "Choose File" button and select your club's emblem.
+
+Step 4: Customize the Main Settings (Banner)
+If you are in Banner mode, start with the Main Settings tab:
+
+Team Name, Year, City/Team: Fill in your club's details. The text will automatically update on the banner.
+Colors: Use the color pickers to set the Primary, Secondary, and Text colors for your club. The entire theme will update live.
+Outlines: You can enable, disable, and customize the color and thickness of outlines for both Text and Emblems.
+
+Step 5: Fine-Tune Positions and Sizes (Banner)
+For more detailed control over the banner, use the other tabs in the Banner menu:
+
+Text Positions: Adjust the X (horizontal) and Y (vertical) position of the text in each row.
+Text & Emblem Sizes: Change the font size and the size of the emblems in each row independently.
+
+Step 6: Design Your Flags and Scarfs
+When you switch to the Flags or Scarf design mode, you will see a new set of simplified controls:
+
+Change Design: Use the Change Square Flag Design, Change Rectangle Flag Design, or Change Scarf Design buttons to cycle through up to 10 different patterns and styles.
+Sizes & Positions: Adjust the size of the emblem and the size/position of the text to fit the current design perfectly.
+
+Step 7: Add a Texture Overlay (Recommended)
+For a more realistic look, you can add a texture to the banners and flags.
+
+Under Banner Options or Flags Options, find the Overlay Image control.
+Use the Overlays in this File.
+You can toggle its visibility in the UI with the checkbox. The downloaded file will include the overlay if it's enabled.
+
+Step 8: Update and Download
+Update Buttons: While most changes appear live, you can click the Update Banner/Flags/Scarf button to force a refresh of the preview.
+
+Download Buttons: When you are happy with your design, click the corresponding Download button. Your graphic will be exported as a high-quality PNG file, named after your team - ("STEAUA BUCUREȘTI BANNER")
+
+IMPORTANT NOTICE :
+
+The quality of your final design is directly related to the quality of the emblem you upload.
+Preview vs. Export Quality: The live preview uses CSS for speed, which is an approximation. The final downloaded image uses a high-quality canvas rendering method, which is much more precise, especially for outlines. The downloaded file is the true, final result.
+To use the "Download all as zip" please follow the other text document in this archive
+-Enjoy. <3
