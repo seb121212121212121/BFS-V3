@@ -2,7 +2,7 @@
 BFS Generator
 
 
-Made by Salamyboi / SB Reborn
+Made by SB Reborn
 
 Introduction
 
