@@ -7,7 +7,7 @@ Made by SB Reborn
 Introduction
 
 
-Thanks for downloading BFS-V1 (Banner, Flag, Scarf) Generator! This is a powerful, all-in-one tool for creating custom, high-quality graphics for EAFC. The generator is a standalone HTML file that runs entirely in your web browser, meaning you don't need any special software or internet connection to use it.
+Thanks for downloading BFS-V3 (Banner, Flag, Scarf) Generator! This is a powerful, all-in-one tool for creating custom, high-quality graphics for EAFC. The generator is a standalone HTML file that runs entirely in your web browser, meaning you don't need any special software or internet connection to use it.
 
 
 How to Use:
